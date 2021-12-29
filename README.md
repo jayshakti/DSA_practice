@@ -1,1 +1,1 @@
-# Solving gfg competitive problems
+# Solving DSA for practice
